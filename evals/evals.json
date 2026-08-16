@@ -1,0 +1,23 @@
+{
+  "skill_name": "authentic-voice",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Write the hero section and about blurb for my personal homepage. I'm a hobbyist Rust and Elixir developer, coding seriously since 2022, and honestly still struggling with both. I have a noisy Discord server where I talk about nothing and a blog I update every few months. Make it feel like ME, a real person, not a template. Don't invent facts I didn't give you.",
+      "expected_output": "Copy that reads as a real person: self-deprecating and specific, uses the real facts provided (Rust/Elixir hobbyist, since 2022, struggling), no marketing clichés, no invented credentials, undersells rather than oversells.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Rewrite this to sound like a human wrote it, not an LLM: \"Empowering developers to build the future. Our cutting-edge platform leverages robust, scalable infrastructure to streamline your workflow and unlock your team's full potential.\"",
+      "expected_output": "A rewrite with specific, human-sounding language that kills the confident-vague marketing register and AI tells; should not read like it could appear on any SaaS landing page.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I'm making a small side project page for my timer tool. I built it in Rust after getting into systems programming, it tells you when pasta is done, and my branding is that it works by accident more often than not. Write the one-paragraph tagline section in my voice — dry, a little self-deprecating, definitely not corporate.",
+      "expected_output": "A personal, dry, self-deprecating tagline paragraph in the user's voice using the real details given (Rust timer, pasta, works-by-accident), free of AI copywriting clichés.",
+      "files": []
+    }
+  ]
+}

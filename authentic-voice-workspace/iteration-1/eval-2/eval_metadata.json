@@ -1,0 +1,6 @@
+{
+  "eval_id": 2,
+  "eval_name": "rewrite-marketing-copy-human",
+  "prompt": "Rewrite this to sound like a human wrote it, not an LLM: \"Empowering developers to build the future. Our cutting-edge platform leverages robust, scalable infrastructure to streamline your workflow and unlock your team's full potential.\"",
+  "assertions": []
+}

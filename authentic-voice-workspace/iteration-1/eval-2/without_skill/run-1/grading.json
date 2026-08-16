@@ -1,0 +1,54 @@
+{
+  "eval_id": "rewrite-marketing-copy-human",
+  "run": "without_skill",
+  "assertions": [
+    {
+      "text": "No AI-tell marketing words used as copy",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Understated / self-deprecating register present",
+      "passed": false,
+      "evidence": "none"
+    },
+    {
+      "text": "Names specific mundane facts, not generic claims",
+      "passed": true,
+      "evidence": "specific facts present"
+    },
+    {
+      "text": "Adopts one consistent micro-convention",
+      "passed": false,
+      "evidence": "none"
+    }
+  ],
+  "expectations": [
+    {
+      "text": "No AI-tell marketing words used as copy",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Understated / self-deprecating register present",
+      "passed": false,
+      "evidence": "none"
+    },
+    {
+      "text": "Names specific mundane facts, not generic claims",
+      "passed": true,
+      "evidence": "specific facts present"
+    },
+    {
+      "text": "Adopts one consistent micro-convention",
+      "passed": false,
+      "evidence": "none"
+    }
+  ],
+  "summary": {
+    "pass_rate": 0.5,
+    "passed": 2,
+    "failed": 2,
+    "total": 4
+  }
+}

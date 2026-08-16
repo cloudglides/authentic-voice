@@ -1,0 +1,54 @@
+{
+  "eval_id": "side-project-tagline-voice",
+  "run": "without_skill",
+  "assertions": [
+    {
+      "text": "No AI-tell marketing words used as copy",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Understated / self-deprecating register present",
+      "passed": true,
+      "evidence": "cue found"
+    },
+    {
+      "text": "Names specific mundane facts, not generic claims",
+      "passed": true,
+      "evidence": "specific facts present"
+    },
+    {
+      "text": "Adopts one consistent micro-convention",
+      "passed": true,
+      "evidence": "convention present"
+    }
+  ],
+  "expectations": [
+    {
+      "text": "No AI-tell marketing words used as copy",
+      "passed": true,
+      "evidence": "none"
+    },
+    {
+      "text": "Understated / self-deprecating register present",
+      "passed": true,
+      "evidence": "cue found"
+    },
+    {
+      "text": "Names specific mundane facts, not generic claims",
+      "passed": true,
+      "evidence": "specific facts present"
+    },
+    {
+      "text": "Adopts one consistent micro-convention",
+      "passed": true,
+      "evidence": "convention present"
+    }
+  ],
+  "summary": {
+    "pass_rate": 1.0,
+    "passed": 4,
+    "failed": 0,
+    "total": 4
+  }
+}

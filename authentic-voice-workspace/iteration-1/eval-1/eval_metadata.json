@@ -1,0 +1,6 @@
+{
+  "eval_id": 1,
+  "eval_name": "personal-homepage-hero-and-about",
+  "prompt": "Write the hero section and about blurb for my personal homepage. I'm a hobbyist Rust and Elixir developer, coding seriously since 2022, and honestly still struggling with both. I have a noisy Discord server where I talk about nothing and a blog I update every few months. Make it feel like ME, a real person, not a template. Don't invent facts I didn't give you.",
+  "assertions": []
+}

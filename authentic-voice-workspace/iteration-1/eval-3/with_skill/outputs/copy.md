@@ -1,0 +1,1 @@
+pasta is a timer I wrote in Rust after getting into systems programming, which lasted about a week. You click it when the water boils, it counts, and it beeps when the pasta is done. It's right more often by accident than by skill, which I've decided counts as a design decision. It does not do rice.

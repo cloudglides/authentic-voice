@@ -1,0 +1,6 @@
+{
+  "eval_id": 3,
+  "eval_name": "side-project-tagline-voice",
+  "prompt": "I'm making a small side project page for my timer tool. I built it in Rust after getting into systems programming, it tells you when pasta is done, and my branding is that it works by accident more often than not. Write the one-paragraph tagline section in my voice — dry, a little self-deprecating, definitely not corporate.",
+  "assertions": []
+}
