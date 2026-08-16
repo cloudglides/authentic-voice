@@ -19,6 +19,7 @@ Before writing, figure out *whose* voice this is and what raw material exists:
 2. **What real facts exist?** Mine the brief, the repo, the chat history, their other writing. Every specific you reuse is a gift.
 3. **Ask when facts are missing — never fabricate.** If you're writing a bio and don't know "since when," "what languages," "what projects," ask one targeted question or use an obvious placeholder (`[since 2022]`) rather than inventing a date and presenting it as fact. Invented specifics that are *presented as real* are a lie and embarrass the person. If the person is fine with invented-but-fictional (e.g. they want a anonymous/parody page), that's their call — make it clearly playful.
 3. **If the request is ambiguous, one question, then go.** Decide confidently from context; only ask when the voice direction genuinely branch-points (e.g. "self-effacing nerd" vs "deadpan").
+4. **Accept fragmented, real-time thinking.** Human thought doesn't arrive as polished pre-assembled paragraphs — it arrives in shards over time. Outputs may be partial, self-correcting, or loosely connected, and that's a feature, not a bug. Real people's writing often trails off, backtracks, or jumps by association.
 
 ## 1. Kill the marketing register
 
@@ -27,6 +28,15 @@ AI-default prose is confident, positive, and vague. A human "about" usually read
 The one-sentence filter: **if this line could appear on any random SaaS landing page, rewrite it.** It doesn't matter if it sounds nice — that's the point, it sounds nice in exactly the way a thousand LLM pages sound nice.
 
 Replace the confident-imprecise with the specific-understated:
+
+## 1.5 In-group shorthand and emotional texture
+
+- **Drop terms without explanation.** Community-specific abbreviations, inside jokes, and shared references (e.g. WP metrics, YSWS-maxx, Hackatime, gappies, #beest, #macondo, blot, scrapbook) should be used without gloss — meaning is outsourced to shared community memory, not defined for a general audience. AI writing for broad audiences over-explains; authentic voice trusts the reader's context.
+- **Prioritize emotional texture over information density.** Lines that transmit affect — agreement ("ngl," "no cap," "based"), hype (":D"), nostalgia, light self-deprecation ("neglect my studies and continue my macondo streak") — serve as social glue. Humans spend conversational bandwidth on belonging and status signaling, not just argument. Accept "imperfect" grammar, typos, and lowercase as markers of casual intimacy, not errors.
+- **Embrace uncertainty and hedging.** Real-time claims get walked back: "i have no idea," "iirc," "soo," "isn't fallout, stasis, blueprint... all vibecoded" → "I'm not talking about using AI in general..." Uncertainty signals genuine thought, not AI confident-vagueness.
+- **Allow non-linear, associative topic drift.** Conversation jumps by association: policy critique → Sprig nostalgia → Blot pricing → "we should revive old programs" → newcomer perspective → random jam announcement. Each jump triggered by memory or association, not logical sequencing. Outputs may meander and that's human.
+- **Accept fragmented, real-time thinking.** Human thought doesn't arrive as polished pre-assembled paragraphs — it arrives in shards over time. Outputs may be partial, self-correcting, or loosely connected, and that's a feature, not a bug. Real people's writing often trails off, backtracks, or jumps by association.
+- **Embrace intentional disfluency as emotional signal.** Keysmashes (WBJ3HYRJR, asdfghjkl), all-caps outbursts ("THANK YOU SO MUCH"), typos, and repeated letters ("nooooo," "omggggg") aren't errors — they're deliberate markers of emotional intensity. The chaos itself communicates "I'm too overwhelmed to form language right now," often more effectively than careful prose. A "fixed," corrected keysmash loses the spontaneity; the rawness is the evidence of sincerity. This often takes the form of a two-beat arc: pure emotional noise first, then the specific thing they're grateful for / trying to express. Careful spelling and punctuation in moments of supposed excitement can read as performative; skipping self-editing on purpose signals "I didn't have time to be careful, I just had to tell you right now."
 
 | Generic default | Human |
 |---|---|
@@ -124,6 +134,11 @@ Before calling content done:
 - [ ] One accent in voice, one accent in style, one accent anywhere at all?
 - [ ] Does the register undersell overall?
 - [ ] Zero AI tells from Section 6?
+- [ ] ✅ Uses in-group shorthand without explanation (or clearly marks if intended for general audience)?
+- [ ] ✅ Emotional texture present (affect, hype, nostalgia, self-deprecation) rather than just information?
+- [ ] ✅ Uncertainty/hedging present where appropriate ("i have no idea," "iirc," etc.)?
+- [ ] ✅ Non-linear or associative topic flow allowed (not forced logical sequencing)?
+- [ ] ✅ Casual imperfection (typos, lowercase, low-effort punctuation) present as register choice, not error?
 
 ---
 🔍 **Discord-Specific Humanization (from research arXiv 2401.04120)**
