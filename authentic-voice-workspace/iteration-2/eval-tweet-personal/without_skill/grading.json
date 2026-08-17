@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "Single message, not a numbered thread",
+      "passed": true,
+      "evidence": "'spent my whole evening fighting the borrow checker and it was just two...'"
+    },
+    {
+      "text": "Within tweet length (<=280 chars)",
+      "passed": true,
+      "evidence": "228 chars"
+    },
+    {
+      "text": "Uses only facts provided (borrow checker, blog, discord)",
+      "passed": true,
+      "evidence": "spent my whole evening fighting the borrow checker and it was just two mutable borrows of the same thing. blog post incoming that exactly three people will read. the discord being extra quiet tonight isn't helping my ego either."
+    },
+    {
+      "text": "No marketing/AI-tell word clusters (empower, leverage, seamless, unlock...)",
+      "passed": true,
+      "evidence": "spent my whole evening fighting the borrow checker and it was just two mutable borrows of the same thing. blog post incoming that exactly three people will read. the discord being extra quiet tonight isn't helping my ego either."
+    },
+    {
+      "text": "Casual/dry register, no essay polish",
+      "passed": true,
+      "evidence": "spent my whole evening fighting the borrow checker and it was just two mutable borrows of the same thing. blog post incoming that exactly three people will read. the discord being extra quiet tonight isn't helping my ego either."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

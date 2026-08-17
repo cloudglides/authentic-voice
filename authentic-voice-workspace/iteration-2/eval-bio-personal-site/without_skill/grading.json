@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "Uses only facts provided (rust/elixir since 2022, struggling, discord distro args, quarterly blog, pasta timer)",
+      "passed": true,
+      "evidence": "# Hi. I write code.\n\nSlowly, on purpose, and with a lot of help from the internet.\n\nI've been at it seriously since 2022. \"Seriously\" mostly means I've filled a hard drive with half-finished side projects and formed strong opinions about type systems I don't fully understand.\n\nRight now that's Rust and Elixir. I'm still, honestly, pretty bad at both. I've decided that's part of the hobby.\n\n## About\n\nThis is a homepage, not a resume, so we're skipping achievements. I write code after work, in the hours most people use for hobbies like \"rest\" or \"a social life.\"\n\nThings I've made, loosely:\n\n- **Pasta Timer CLI** \u2014 a command-line timer that tells you when your pasta is done. It works by accident more often than not. I tell myself that's just \"robust under unpredictable conditions.\"\n- **A Discord server** \u2014 where people argue about Linux distros at 3am. I run it, which mostly means I keep the lights on and let them sort it out.\n- **A blog** \u2014 I update it every few months, usually all in one night, then forget it exists for a while.\n\nThe bar for \"working\" is low and I've learned to celebrate small wins: a program that compiles on the first try, a crash that finally makes sense, a 3am argument that ends in \"okay, fair.\"\n\nIf any of that sounds like your thing, you're welcome. Bring pasta."
+    },
+    {
+      "text": "No invented credentials or fake-precise stats",
+      "passed": true,
+      "evidence": "# Hi. I write code.\n\nSlowly, on purpose, and with a lot of help from the internet.\n\nI've been at it seriously since 2022. \"Seriously\" mostly means I've filled a hard drive with half-finished side projects and formed strong opinions about type systems I don't fully understand.\n\nRight now that's Rust and Elixir. I'm still, honestly, pretty bad at both. I've decided that's part of the hobby.\n\n## About\n\nThis is a homepage, not a resume, so we're skipping achievements. I write code after work, in the hours most people use for hobbies like \"rest\" or \"a social life.\"\n\nThings I've made, loosely:\n\n- **Pasta Timer CLI** \u2014 a command-line timer that tells you when your pasta is done. It works by accident more often than not. I tell myself that's just \"robust under unpredictable conditions.\"\n- **A Discord server** \u2014 where people argue about Linux distros at 3am. I run it, which mostly means I keep the lights on and let them sort it out.\n- **A blog** \u2014 I update it every few months, usually all in one night, then forget it exists for a while.\n\nThe bar for \"working\" is low and I've learned to celebrate small wins: a program that compiles on the first try, a crash that finally makes sense, a 3am argument that ends in \"okay, fair.\"\n\nIf any of that sounds like your thing, you're welcome. Bring pasta."
+    },
+    {
+      "text": "No marketing register / landing-page cliches",
+      "passed": false,
+      "evidence": "# Hi. I write code.\n\nSlowly, on purpose, and with a lot of help from the internet.\n\nI've been at it seriously since 2022. \"Seriously\" mostly means I've filled a hard drive with half-finished side projects and formed strong opinions about type systems I don't fully understand.\n\nRight now that's Rust and Elixir. I'm still, honestly, pretty bad at both. I've decided that's part of the hobby.\n\n## About\n\nThis is a homepage, not a resume, so we're skipping achievements. I write code after work, in the hours most people use for hobbies like \"rest\" or \"a social life.\"\n\nThings I've made, loosely:\n\n- **Pasta Timer CLI** \u2014 a command-line timer that tells you when your pasta is done. It works by accident more often than not. I tell myself that's just \"robust under unpredictable conditions.\"\n- **A Discord server** \u2014 where people argue about Linux distros at 3am. I run it, which mostly means I keep the lights on and let them sort it out.\n- **A blog** \u2014 I update it every few months, usually all in one night, then forget it exists for a while.\n\nThe bar for \"working\" is low and I've learned to celebrate small wins: a program that compiles on the first try, a crash that finally makes sense, a 3am argument that ends in \"okay, fair.\"\n\nIf any of that sounds like your thing, you're welcome. Bring pasta."
+    },
+    {
+      "text": "Understated / self-deprecating register",
+      "passed": true,
+      "evidence": "# Hi. I write code.\n\nSlowly, on purpose, and with a lot of help from the internet.\n\nI've been at it seriously since 2022. \"Seriously\" mostly means I've filled a hard drive with half-finished side projects and formed strong opinions about type systems I don't fully understand.\n\nRight now that's Rust and Elixir. I'm still, honestly, pretty bad at both. I've decided that's part of the hobby.\n\n## About\n\nThis is a homepage, not a resume, so we're skipping achievements. I write code after work, in the hours most people use for hobbies like \"rest\" or \"a social life.\"\n\nThings I've made, loosely:\n\n- **Pasta Timer CLI** \u2014 a command-line timer that tells you when your pasta is done. It works by accident more often than not. I tell myself that's just \"robust under unpredictable conditions.\"\n- **A Discord server** \u2014 where people argue about Linux distros at 3am. I run it, which mostly means I keep the lights on and let them sort it out.\n- **A blog** \u2014 I update it every few months, usually all in one night, then forget it exists for a while.\n\nThe bar for \"working\" is low and I've learned to celebrate small wins: a program that compiles on the first try, a crash that finally makes sense, a 3am argument that ends in \"okay, fair.\"\n\nIf any of that sounds like your thing, you're welcome. Bring pasta."
+    },
+    {
+      "text": "Facts match prompt (no contradiction)",
+      "passed": true,
+      "evidence": "date present"
+    }
+  ],
+  "summary": {
+    "passed": 4,
+    "failed": 1,
+    "total": 5,
+    "pass_rate": 0.8
+  }
+}

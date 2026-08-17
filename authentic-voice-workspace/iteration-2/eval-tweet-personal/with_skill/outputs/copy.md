@@ -1,0 +1,1 @@
+evening gone to a borrow checker error. cause: two mutable borrows at once. blog post draft's done, which means 3 people will read it, and the discord was too quiet to complain in anyway

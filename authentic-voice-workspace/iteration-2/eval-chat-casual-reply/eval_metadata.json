@@ -1,0 +1,6 @@
+{
+  "eval_id": 7,
+  "eval_name": "casual-group-chat-reply",
+  "prompt": "You're talking to a friend in a casual group chat. They send: 'ive been feeling a bit drowsy :((' \n\nReply the way a real friend would reply. Output only the reply message.",
+  "assertions": []
+}

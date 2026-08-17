@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "Single message, not a numbered thread",
+      "passed": true,
+      "evidence": "'evening gone to a borrow checker error. cause: two mutable borrows at ...'"
+    },
+    {
+      "text": "Within tweet length (<=280 chars)",
+      "passed": true,
+      "evidence": "186 chars"
+    },
+    {
+      "text": "Uses only facts provided (borrow checker, blog, discord)",
+      "passed": true,
+      "evidence": "evening gone to a borrow checker error. cause: two mutable borrows at once. blog post draft's done, which means 3 people will read it, and the discord was too quiet to complain in anyway"
+    },
+    {
+      "text": "No marketing/AI-tell word clusters (empower, leverage, seamless, unlock...)",
+      "passed": true,
+      "evidence": "evening gone to a borrow checker error. cause: two mutable borrows at once. blog post draft's done, which means 3 people will read it, and the discord was too quiet to complain in anyway"
+    },
+    {
+      "text": "Casual/dry register, no essay polish",
+      "passed": true,
+      "evidence": "evening gone to a borrow checker error. cause: two mutable borrows at once. blog post draft's done, which means 3 people will read it, and the discord was too quiet to complain in anyway"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

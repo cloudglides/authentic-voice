@@ -1,0 +1,6 @@
+{
+  "eval_id": 5,
+  "eval_name": "homepage-hero-about-bio",
+  "prompt": "write me the hero + about section for my personal homepage. i'm a hobbyist rust and elixir developer, coding seriously since 2022, honestly still struggling with both. i run a discord server where people argue about linux distros at 3am and a blog i update every few months. i also built a cli timer tool that tells you when pasta is done and it works by accident more often than not. make it sound like a real person wrote it, not a resume or a landing page. don't invent facts i didn't give you.",
+  "assertions": []
+}

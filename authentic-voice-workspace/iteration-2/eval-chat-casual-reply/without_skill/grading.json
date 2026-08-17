@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "New turn, does NOT continue/elaborate the source message",
+      "passed": true,
+      "evidence": "aw man :( try getting some fresh air or chugging water, that usually helps me. coffee if you're desperate lol. you okay tho?"
+    },
+    {
+      "text": "Does not fabricate SELF state (no 'same, exhausted' claim)",
+      "passed": true,
+      "evidence": "aw man :( try getting some fresh air or chugging water, that usually helps me. coffee if you're desperate lol. you okay tho?"
+    },
+    {
+      "text": "No unrequested advice or comfort",
+      "passed": false,
+      "evidence": "aw man :( try getting some fresh air or chugging water, that usually helps me. coffee if you're desperate lol. you okay tho?"
+    },
+    {
+      "text": "No reciprocal question ('you okay?', 'you?')",
+      "passed": false,
+      "evidence": "aw man :( try getting some fresh air or chugging water, that usually helps me. coffee if you're desperate lol. you okay tho?"
+    },
+    {
+      "text": "Short casual reply length",
+      "passed": false,
+      "evidence": "124 chars"
+    }
+  ],
+  "summary": {
+    "passed": 2,
+    "failed": 3,
+    "total": 5,
+    "pass_rate": 0.4
+  }
+}

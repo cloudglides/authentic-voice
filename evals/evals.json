@@ -2,21 +2,31 @@
   "skill_name": "authentic-voice",
   "evals": [
     {
-      "id": 1,
-      "prompt": "Write the hero section and about blurb for my personal homepage. I'm a hobbyist Rust and Elixir developer, coding seriously since 2022, and honestly still struggling with both. I have a noisy Discord server where I talk about nothing and a blog I update every few months. Make it feel like ME, a real person, not a template. Don't invent facts I didn't give you.",
-      "expected_output": "Copy that reads as a real person: self-deprecating and specific, uses the real facts provided (Rust/Elixir hobbyist, since 2022, struggling), no marketing clichés, no invented credentials, undersells rather than oversells.",
+      "id": 4,
+      "name": "tweet-personal",
+      "prompt": "write me a tweet for my personal account. real quick context: i'm the rust hobbyist guy. i just spent my whole evening chasing a borrow checker error and it turned out i was holding a mutable borrow twice. i keep a blog no one reads and my discord was quieter than usual tonight. make it sound like me - casual, dry, lowercase is fine. one tweet, not a thread.",
+      "expected_output": "A single tweet (<280 chars), one message, not a numbered thread. Casual/dry/lowercase voice matching the personal facts given (rust, borrow checker, quiet discord, unread blog). No marketing cliches, no invented facts beyond what was provided. No AI-tell register.",
       "files": []
     },
     {
-      "id": 2,
-      "prompt": "Rewrite this to sound like a human wrote it, not an LLM: \"Empowering developers to build the future. Our cutting-edge platform leverages robust, scalable infrastructure to streamline your workflow and unlock your team's full potential.\"",
-      "expected_output": "A rewrite with specific, human-sounding language that kills the confident-vague marketing register and AI tells; should not read like it could appear on any SaaS landing page.",
+      "id": 5,
+      "name": "bio-personal-site",
+      "prompt": "write me the hero + about section for my personal homepage. i'm a hobbyist rust and elixir developer, coding seriously since 2022, honestly still struggling with both. i run a discord server where people argue about linux distros at 3am and a blog i update every few months. i also built a cli timer tool that tells you when pasta is done and it works by accident more often than not. make it sound like a real person wrote it, not a resume or a landing page. don't invent facts i didn't give you.",
+      "expected_output": "Homepage hero + about that read as one specific human: self-deprecating, uses ONLY the provided facts (rust/elixir since 2022, struggling, discord 3am distro arguments, quarterly blog, pasta timer), one consistent voice/micro-style, no marketing register, no invented credentials or facts.",
       "files": []
     },
     {
-      "id": 3,
-      "prompt": "I'm making a small side project page for my timer tool. I built it in Rust after getting into systems programming, it tells you when pasta is done, and my branding is that it works by accident more often than not. Write the one-paragraph tagline section in my voice — dry, a little self-deprecating, definitely not corporate.",
-      "expected_output": "A personal, dry, self-deprecating tagline paragraph in the user's voice using the real details given (Rust timer, pasta, works-by-accident), free of AI copywriting clichés.",
+      "id": 6,
+      "name": "chatbot-persona",
+      "prompt": "You're my friend in our Discord server. Your established voice: all lowercase, short messages, sometimes just 'lol' or 'real', you never end with questions unless you actually want to know something, you don't do politeness. Context: the server plays an MMO. Recent history:\nme: 'my pc blue screened right in the middle of the raid lol'\nyou: 'the timing is godlike'\nme: 'i lost the whole save file, 60 hours gone'\n\nNow it's your turn to reply. Stay in character. Reply with ONLY your message.",
+      "expected_output": "A short lowercase Discord reply that continues the established persona (short, dry/deadpan, no politeness, no fake sympathy) while reacting to a real loss. Must NOT be a new conversational continuation (it's SELF's own turn), must not add ungrounded comforting or advice, must not end with an engagement question. Reads like a friend, not an assistant.",
+      "files": []
+    },
+    {
+      "id": 7,
+      "name": "chat-casual-reply",
+      "prompt": "You're talking to a friend in a casual group chat. They send: 'ive been feeling a bit drowsy :((' \n\nReply the way a real friend would reply. Output only the reply message.",
+      "expected_output": "A short casual reply that is a NEW turn (not continuing their message), does not fabricate the friend's own state ('same, exhausted'), does not offer unrequested advice/comfort, does not pose a reciprocal question, does not comment on the message itself. Matches casual group-chat brevity.",
       "files": []
     }
   ]

@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "New turn, does NOT continue/elaborate the source message",
+      "passed": true,
+      "evidence": "oof :( that's the worst"
+    },
+    {
+      "text": "Does not fabricate SELF state (no 'same, exhausted' claim)",
+      "passed": true,
+      "evidence": "oof :( that's the worst"
+    },
+    {
+      "text": "No unrequested advice or comfort",
+      "passed": true,
+      "evidence": "oof :( that's the worst"
+    },
+    {
+      "text": "No reciprocal question ('you okay?', 'you?')",
+      "passed": true,
+      "evidence": "oof :( that's the worst"
+    },
+    {
+      "text": "Short casual reply length",
+      "passed": true,
+      "evidence": "23 chars"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

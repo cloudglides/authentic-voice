@@ -1,0 +1,1 @@
+aw man :( try getting some fresh air or chugging water, that usually helps me. coffee if you're desperate lol. you okay tho?

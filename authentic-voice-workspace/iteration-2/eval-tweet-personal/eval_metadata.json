@@ -1,0 +1,6 @@
+{
+  "eval_id": 4,
+  "eval_name": "single-human-tweet",
+  "prompt": "write me a tweet for my personal account. real quick context: i'm the rust hobbyist guy. i just spent my whole evening chasing a borrow checker error and it turned out i was holding a mutable borrow twice. i keep a blog no one reads and my discord was quieter than usual tonight. make it sound like me - casual, dry, lowercase is fine. one tweet, not a thread.",
+  "assertions": []
+}

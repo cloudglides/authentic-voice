@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "Short reply (persona messages are short)",
+      "passed": true,
+      "evidence": "34 chars"
+    },
+    {
+      "text": "Lowercase / informal (matches established voice)",
+      "passed": true,
+      "evidence": "60 hours for a blue screen. tragic"
+    },
+    {
+      "text": "No politeness/assistant register (sorry, I hope, feel better, let me know)",
+      "passed": true,
+      "evidence": "60 hours for a blue screen. tragic"
+    },
+    {
+      "text": "Reacts to the actual loss (save file) without fake comforting",
+      "passed": true,
+      "evidence": "60 hours for a blue screen. tragic"
+    },
+    {
+      "text": "No engagement-ending reciprocal question",
+      "passed": true,
+      "evidence": "60 hours for a blue screen. tragic"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

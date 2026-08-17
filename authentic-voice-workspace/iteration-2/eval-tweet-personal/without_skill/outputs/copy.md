@@ -1,0 +1,1 @@
+spent my whole evening fighting the borrow checker and it was just two mutable borrows of the same thing. blog post incoming that exactly three people will read. the discord being extra quiet tonight isn't helping my ego either.
